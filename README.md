@@ -2,7 +2,7 @@
 
 Criar uma aplicação do zero e configurar o ESLint, EditorConfig, Reactotron, React DevTools e Babel Root Import. Assim que configurados, você deve reproduzir o layout abaixo utilizando FlexBox layout:
 
-![Feed](/assets/feed.png)
+<img src="https://s3.us-east-2.amazonaws.com/reactnative-exemples/rnexemple.png"  />
 
 Nesse projeto você desenvolverá um feed de posts estilo Facebook. Crie um layout tentando chegar o mais próximo possível da imagem acima.
 
@@ -26,14 +26,7 @@ Nesse projeto você desenvolverá um feed de posts estilo Facebook. Crie um layo
 </ScrollView>
 ```
 
-## Entrega
+ ## License
 
-Esse desafio **não precisa ser entregue** e não receberá correção, mas você pode ver o resultado do código do desafio feito por mim aqui: https://github.com/Rocketseat/bootcamp-react-native-desafio-01
+This project is licensed under the MIT License - see the LICENSE.md file for details
 
-*PS.: Tente fazer o desafio sem olhar o código antes :)*
-
-*PS2.: Após concluir o desafio, adicionar esse código ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras :D*
-
-Booooooora dev!!!
-
-“Sucesso não é o resultado de um jogo, mas o destino de uma jornada”!
